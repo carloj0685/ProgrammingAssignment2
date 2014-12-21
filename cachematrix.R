@@ -22,7 +22,6 @@ makeCacheMatrix <- function(x = matrix()) {
              setinv = setinv,
              getinv = getinv)
 }
-}
 
 
 ## Given a cached matrix, this function returns the inverse
